@@ -1,5 +1,8 @@
 # 📊 Customer Shopping Behavior Analysis
 
+### 📊 Power BI Dashboard Preview
+![Customer Analysis Dashboard](https://github.com/Mahak313/Customer-Behaviour-Analysis/blob/main/Dashboard/Customer%20Analysis%20Dashboard.png)
+
 ## 📌 Overview
 This project focuses on analyzing **customer shopping behavior** using **Python, SQL, and Power BI** to uncover meaningful business insights.  
 The analysis helps understand **purchasing patterns, customer preferences, and revenue drivers** through data cleaning, exploratory data analysis (EDA), structured querying, and interactive dashboards.
